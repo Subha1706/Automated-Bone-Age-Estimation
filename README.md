@@ -98,6 +98,7 @@ Segmentation significantly improved model stability and accuracy.
 ---
 
 ## 📁 Repository Structure
+```bash
 ├── notebooks/
 │   ├── rsna-grp-10-approach1-2.ipynb
 │
@@ -109,7 +110,7 @@ Segmentation significantly improved model stability and accuracy.
 │   ├── segmentation_results.png
 │
 ├── README.md
-
+```
 
 
 ---
