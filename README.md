@@ -159,5 +159,3 @@ The paper will be linked here upon completion.
 **Subhasree Yenigalla**
 
 **P Sri Ashritha**
-
-B.Tech Computer Science and Engineering
